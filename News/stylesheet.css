@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+
+html, body {
+    background-color: #E1D4C0;
+    margin: 0 0 0 0;
+}
+
+.ph {
+	display: inline-block;
+	margin-bottom: 15px;
+}
+
+#Preheader {
+	height: 150px;
+	width:100%;
+	background-color: #104386;
+	font-family: Oswald;
+	color: #F5EDE3;
+	padding-bottom:15px;
+}
+
